@@ -59,3 +59,5 @@ Alu is a beautiful, functional, and sleek web proxy, which focuses on customizat
 * ExpressJS
 * Prettier
 * ESLint
+
+![Anura Showcase](https://i.postimg.cc/MTLGdftb/Screenshot-2024-08-25-082403.png)
