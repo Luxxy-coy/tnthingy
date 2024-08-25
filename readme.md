@@ -168,3 +168,7 @@ Incog is the flagship of flagship proxies! Its clean and simple design makes it 
 * Simple
 * Lightweight
 * Clean UI
+
+[Incog](https://incog.works/)
+
+![Incog Showcase](https://i.postimg.cc/qqMvJXqT/Screenshot-2024-08-25-084812.png)
