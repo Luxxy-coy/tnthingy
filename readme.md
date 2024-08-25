@@ -140,3 +140,17 @@ Ludicrous is a Fast, simple, and sleek flaghsip web proxy!
 
 ![Ludicrious Showcase](https://github.com/TitaniumNetwork-dev/Ludicrous/raw/main/example.jpeg?raw=true)
 
+## Totally Science
+
+**What is Totally Science?**
+
+Totally Science is a powerfull site full of games for your every day school use!
+
+**Features**
+* Sleek
+* Fast
+* Wide Selection Of Games
+
+[Totally Science](https://totallyscience.co)
+
+![Totally Science Showcase](https://i.postimg.cc/NjL27Ygc/Screenshot-2024-08-25-084522.png)
