@@ -10,8 +10,8 @@
 * Works with a large number of sites, including YouTube, Discord, and more! Also has a good amount of locally hosted games featured on the site.
 
 [Holy Unblocker](https://holyunblocker.org)
-![Holy UB Showcase]([https://github.com/MercuryWorkshop/anuraOS/raw/main/assets/showcase1.gif](https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v6.3.0-preview.png
-))
+
+![Holy UB Showcase]([https://github.com/MercuryWorkshop/anuraOS/raw/main/assets/showcase1.gif](https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v6.3.0-preview.png)
 
 ## Anura OS
 
