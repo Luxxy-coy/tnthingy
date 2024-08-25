@@ -154,3 +154,17 @@ Totally Science is a powerfull site full of games for your every day school use!
 [Totally Science](https://totallyscience.co)
 
 ![Totally Science Showcase](https://i.postimg.cc/NjL27Ygc/Screenshot-2024-08-25-084522.png)
+
+
+## Incog
+
+**What is incog?**
+
+Incog is the flagship of flagship proxies! Its clean and simple design makes it really easy to use!
+
+**Features**
+* Sleek
+* Fast
+* Simple
+* Lightweight
+* Clean UI
