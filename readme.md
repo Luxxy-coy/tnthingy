@@ -197,3 +197,20 @@ Clients will invisibly connect to one of several tracking servers to exchange an
 dreamland is a reactive JSX-inspired UI library with no virtual dom and no build step. It is less than 3kb minified (smaller than preact), gradually integrates with existing plain JS projects, and is reasonably easy to learn
 
 [Adrift](https://github.com/MercuryWorkshop/dreamlandjs)
+
+
+# BareMux
+
+**What is baremux?**
+
+A system for managing http transports in a project such as Ultraviolet and Scramjet.
+
+Written to make the job of creating new standards for transporting http data seamless.
+
+Implements the TompHTTP Bare client interface in a modular way.
+
+Specifically, this is what allows proxies such as Nebula to switch HTTP transports seamlessly.
+
+A transport is a module that implements the BareTransport interface.
+
+[BareMux](https://github.com/MercuryWorkshop/bare-mux)
