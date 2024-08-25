@@ -21,7 +21,7 @@
 
 ## Anura OS
 
-**What is AnuraOS?**
+* What is AnuraOS?**
 
 * An entirely local browser-based "OS" and development environment with complete graphical Linux emulation, visually based on ChromiumOS. See a demo here, fully in your browser.
 
@@ -33,3 +33,18 @@
 
 ![Anura Showcase](https://github.com/MercuryWorkshop/anuraOS/raw/main/assets/showcase1.gif)
 
+
+## Alu 
+**What is alu?**
+
+Alu is a beautiful, functional, and sleek web proxy, which focuses on customization and ease of use.
+
+**Features**
+* 🌐 UV and Rammerhead support
+* 🎨 Multiple Themes to choose from
+* 🏬 Marketplace for Themes and Extensions
+* 🕶 Multiple site cloaking options
+* 🎮 50+ Games to choose from
+* 🌎 Support for 6 Languages
+* 🚀 High performance
+* 🔍 Multiple Search Engines to pick from
