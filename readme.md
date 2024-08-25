@@ -48,3 +48,14 @@ Alu is a beautiful, functional, and sleek web proxy, which focuses on customizat
 * 🌎 Support for 6 Languages
 * 🚀 High performance
 * 🔍 Multiple Search Engines to pick from
+
+**Technologies**
+* Ultraviolet by Titanium Network
+* Bare Server from TompHTTP
+* Wisp Server Node by Mercury Workshop
+* Rammerhead by binary-person
+* Astro from astro.build
+* Typescript
+* ExpressJS
+* Prettier
+* ESLint
