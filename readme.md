@@ -214,3 +214,12 @@ Specifically, this is what allows proxies such as Nebula to switch HTTP transpor
 A transport is a module that implements the BareTransport interface.
 
 [BareMux](https://github.com/MercuryWorkshop/bare-mux)
+
+
+# Libcurl.js
+
+**What is Libcurl.js?**
+
+This is an experimental port of libcurl to WebAssembly for use in the browser. It provides an interface compatible with the Fetch API, allowing you to proxy HTTPS requests from the browser with full TLS encryption. Unlike previous implementations, the proxy server cannot read the contents of your requests.
+
+[BareMux](https://github.com/ading2210/libcurl.js)
