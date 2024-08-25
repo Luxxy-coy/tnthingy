@@ -77,6 +77,7 @@ The main feature of this product is its sleek ui and fast proxies, it has a wide
 * Bare
 * Bare-mux
 * bare-server-node
-https://i.postimg.cc/MTLGdftb/Screenshot-2024-08-25-082403.png
 
-![Definetly Sciennce Showcase](https://postimg.cc/hz9gGjkf)
+[Definetly Science](https://definetlyscience.com)
+
+![Definetly Sciennce Showcase](https://i.postimg.cc/3JYw9hFq/Screenshot-2024-08-25-083041.png)
