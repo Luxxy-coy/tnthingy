@@ -11,7 +11,7 @@
 
 [Holy Unblocker](https://holyunblocker.org)
 
-![Holy UB Showcase](https://github.com/MercuryWorkshop/anuraOS/raw/main/assets/showcase1.gif](https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v6.3.0-preview.png)
+![Holy UB Showcase](https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v6.3.0-preview.png)
 
 ## Anura OS
 
