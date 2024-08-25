@@ -23,3 +23,6 @@
 * Anura shows as more of a proof-of-concept with what's possible on the modern web rather than an actual product. However, it proves useful in many actual cases and is a useful educational tool.
 
 [Anura OS](https://anura.pro)
+
+![Alt Text]([url](https://github.com/MercuryWorkshop/anuraOS/raw/main/assets/showcase1.gif))
+
