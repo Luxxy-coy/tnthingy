@@ -123,6 +123,20 @@ NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. 
 **What is Kazwire?**
 
 Kazwire allows you to play your favorite games whenever, wherever you need while also allowing you to browse the web freely and securely!
+
+[Kazwire](https://kazwire.com/)
+
 ![Kazwire Showcase](https://user-images.githubusercontent.com/72959444/212424732-bd5f40bf-0f2e-4bb7-ab52-2f5834f49a0a.png)
 ![Kazwire Showcase](https://user-images.githubusercontent.com/72959444/212424742-c86a73e0-be9c-4d70-b9ae-47f68adeb736.png)
 ![Kazwire Showcase](https://user-images.githubusercontent.com/72959444/212424747-7056dc96-0e39-49a8-ae2d-29d74fdcf8db.png)
+
+## Ludicrous
+
+**What is Ludicrous?**
+
+Ludicrous is a Fast, simple, and sleek flaghsip web proxy!
+
+[Ludicrious](https://ludicrous.icu/)
+
+![Ludicrious Showcase](https://github.com/TitaniumNetwork-dev/Ludicrous/raw/main/example.jpeg?raw=true)
+
