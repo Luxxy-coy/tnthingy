@@ -118,3 +118,10 @@ NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. 
 [Nebula Proxy](https://nebulaproxy.io/)
 
 ![Radon Games Showcase](https://i.postimg.cc/MZ4Djs0X/Screenshot-2024-08-25-083720.png)
+
+## Kazwire
+**What is Kazwire?**
+
+Kazwire allows you to play your favorite games whenever, wherever you need while also allowing you to browse the web freely and securely!
+
+![Kazwire Showcase](https://user-images.githubusercontent.com/72959444/212424732-bd5f40bf-0f2e-4bb7-ab52-2f5834f49a0a.png)
