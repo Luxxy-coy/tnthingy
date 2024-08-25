@@ -11,6 +11,12 @@
 
 [Holy Unblocker](https://holyunblocker.org)
 
+**Features**
+* Tab customization using the Options menu for improved stealth
+* Considerable variety with the open selection of proxy types
+* Game library with moderately decent titles
+* Has frequent support articles for issues relating to the various proxy instances
+
 ![Holy UB Showcase](https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v6.3.0-preview.png)
 
 ## Anura OS
