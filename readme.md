@@ -189,3 +189,11 @@ Adrift is a fast and modern decentralized web proxy network, utilizing transport
 Clients will invisibly connect to one of several tracking servers to exchange an "offer". From there, it uses NAT traversal to link up with a random exit node also running adrift, without the need to port forward. This lightens the load on individial server hosters and makes the network difficult to effectively block. If you're familiar with tor snowflake, you can think of this as tor for the web
 
 [Adrift](https://github.com/MercuryWorkshop/adrift/)
+
+# Dreamland.js
+
+**What is dreamland?**
+
+dreamland is a reactive JSX-inspired UI library with no virtual dom and no build step. It is less than 3kb minified (smaller than preact), gradually integrates with existing plain JS projects, and is reasonably easy to learn
+
+[Adrift](https://github.com/MercuryWorkshop/dreamlandjs)
