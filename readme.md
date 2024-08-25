@@ -178,6 +178,8 @@ Incog is the flagship of flagship proxies! Its clean and simple design makes it 
 
 # Mercury Workshop Docs
 
+
+
 # Adrift
 
 **What is Adrift?**
@@ -186,4 +188,4 @@ Adrift is a fast and modern decentralized web proxy network, utilizing transport
 
 Clients will invisibly connect to one of several tracking servers to exchange an "offer". From there, it uses NAT traversal to link up with a random exit node also running adrift, without the need to port forward. This lightens the load on individial server hosters and makes the network difficult to effectively block. If you're familiar with tor snowflake, you can think of this as tor for the web
 
-[Incog](https://github.com/MercuryWorkshop/adrift/)
+[Adrift](https://github.com/MercuryWorkshop/adrift/)
