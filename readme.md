@@ -15,12 +15,9 @@ Works with a large number of sites, including YouTube, Discord, and more! Also h
 ## Anura OS
 
 **What is AnuraOS?**
+
 An entirely local browser-based "OS" and development environment with complete graphical Linux emulation, visually based on ChromiumOS. See a demo here, fully in your browser.
 
-Warning
-
 Anura OS has only been extensively tested on Chromium and Safari. Although nearly everything should work on Firefox, you may run into problems with instability.
-
-Anura uses the features of a PWA (Progressive Web App) to make its environment work fully offline, providing a virtual filesystem (synced with the Linux emulator), a code editor, and a modular and extensible app system. You can even edit Anura's code live while inside of it!
 
 Anura shows as more of a proof-of-concept with what's possible on the modern web rather than an actual product. However, it proves useful in many actual cases and is a useful educational tool.
