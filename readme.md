@@ -8,4 +8,5 @@ Holy Unblocker LTS, an experimental web proxy service, can bypass web filters or
 This project serves mostly as a proof of concept for the ideal clientless solution to bypassing censorship. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
 
 Works with a large number of sites, including YouTube, Discord, and more! Also has a good amount of locally hosted games featured on the site.
+
 [Holy Unblocker](https://holyunblocker.org)
