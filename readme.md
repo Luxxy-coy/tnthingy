@@ -98,3 +98,23 @@ An open-source unblocked games website built with simplicity in mind.
 [Radon Games](https://radon.games/)
 
 ![Radon Games Showcase](https://i.postimg.cc/2y5K8VfJ/Screenshot-2024-08-25-083405.png)
+
+
+## Nebula OS
+
+**What is Nebula OS**
+
+NebulaWeb is an official flagship of Nebula Services and Nebula Developer Labs. NebulaWeb is a stunning, sleek, and functional web-proxy with support for thousands of popular sites. With NebulaWeb, the sky is the limit.
+
+**Features**
+
+* Stunning and highly functional UI
+* 3 different backend proxies
+* Hides your IP from sites
+* List of officially supported sites
+* Full mobile support
+* about:blank cloaking)
+
+[Nebula Proxy](https://nebulaproxy.io/)
+
+![Radon Games Showcase](https://i.postimg.cc/MZ4Djs0X/Screenshot-2024-08-25-083720.png)
