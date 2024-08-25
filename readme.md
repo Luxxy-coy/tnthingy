@@ -21,3 +21,5 @@
 * Anura OS has only been extensively tested on Chromium and Safari. Although nearly everything should work on Firefox, you may run into problems with instability.
 
 * Anura shows as more of a proof-of-concept with what's possible on the modern web rather than an actual product. However, it proves useful in many actual cases and is a useful educational tool.
+
+[Anura OS](https://anura.pro)
