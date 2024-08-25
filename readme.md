@@ -24,5 +24,5 @@
 
 [Anura OS](https://anura.pro)
 
-![Anura Showcase(https://github.com/MercuryWorkshop/anuraOS/raw/main/assets/showcase1.gif)
+[Anura Showcase(https://github.com/MercuryWorkshop/anuraOS/raw/main/assets/showcase1.gif)
 
